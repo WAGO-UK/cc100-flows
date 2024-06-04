@@ -11,9 +11,9 @@
 ## How to import the flow
 
 Node-RED flows are exported using JSON format. 
-To import a chosen file:
+To import your chosen file:
 
-### 1. Use import option in Node-RED editor
+### 1. Use the import option in Node-RED editor
 ![alt text](https://github.com/WAGO-UK/cc100-flows/blob/main/img/flow_import_instruction1.png?raw=true)
 
 ### 2. Press <i>Select file to import</i> button
